@@ -3,7 +3,6 @@ PHP---Arrays
 
 Introduction to PHP Arrays
 
-# PHP Arrays
 # Objectives
 * Demonstrate two different ways to access an Item in an array
 * Demonstrate modifying Array elements
