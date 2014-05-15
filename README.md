@@ -41,7 +41,7 @@ Example to remove an element in an array
 1. Create an array with 10 elements of fruit (Apple, Banana, Cherry, Date, Elderberry, Fig, Grape, Honeydew, ilama, jujube)
 2. Echo out the 6th element "Fig".
 3. Modify the 3th element (Cherry) to Cranberry.
-4. Remove the 5th element (Elderberry)
+4. Remove the 5th element (Elderberry) (Use a foreach loop to display the elements in the array)
 
 # Resources
 * [Code Academy](http://www.codecademy.com/courses/web-beginner-en-StaFQ/0/1?curriculum_id=5124ef4c78d510dd89003eb8)
